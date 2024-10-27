@@ -40,3 +40,9 @@
 #### Fun with Algebra
 - **Question**: If \( x + y = 10 \) and \( x^2 + y^2 = 58 \), find the values of \( x \) and \( y \).
 - **Purpose**: Tests algebraic skills and ability to solve simultaneous equations.
+
+
+Please update your solution here only by creating a new file with your name i.e. Yourname.math or Yourname.md or Yourname.js 
+if you are found of programming you can showcase your proof of concept by providing a detailed program in language you prefer. 
+
+## DeadLine :- 2 Days from the time of receiving.  

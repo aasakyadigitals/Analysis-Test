@@ -44,5 +44,5 @@
 
 Please update your solution here only by creating a new file with your name i.e. Yourname.math or Yourname.md or Yourname.js 
 if you are found of programming you can showcase your proof of concept by providing a detailed program in language you prefer. 
-
+You can also clone this repo and insert your answers and push this back.
 ## DeadLine :- 2 Days from the time of receiving.  
